@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jess Miramontes.</h1>
 <h3 align="center">A Data Scientist from Mexico</h3>
 
-- 🔭 I’m currently working on **Flight Price Predictions**
+- 🔭 I’m currently working on **Instagram Stories Views Predictions**
+  
+- ✈ I finished a project on **Flight Price Predictions**
 
 - 📫 How to reach me **jess_miramontes@yahoo.com.mx**
 
